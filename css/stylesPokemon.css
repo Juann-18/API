@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding-top: 70px;
+}
+
+.header {
+    background-color: #343a40;
+    color: blanco;
+    padding: 20px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.albumDatos {
+    margin-top: 20px;
+}
+
+.paginacion {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.tarjeta {
+    width: 12rem;
+}
